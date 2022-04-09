@@ -1,0 +1,2 @@
+- My name is Teerth Patel.
+- Currently I am watching Kunal,s Git and Github video.
